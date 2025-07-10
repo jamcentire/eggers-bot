@@ -1,0 +1,22 @@
+{
+  "name": "eggers-bot",
+  "version": "1.0.0",
+  "description": "For fetching and posting egg price info to bluesky",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamcentire/eggers-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamcentire/eggers-bot/issues"
+  },
+  "homepage": "https://github.com/jamcentire/eggers-bot#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.0",
+    "@types/node": "^24.0.13"
+  }
+}
